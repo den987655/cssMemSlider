@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(63, 62, 66);
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+  width: 1100px;
+  height: 600px;
+  overflow: hidden;
+  border: 5px solid #fff;margin: 0 auto;
+}
+
+
+.wrapper__slides {
+  display: flex;
+
+}
